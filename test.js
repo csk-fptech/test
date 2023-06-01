@@ -1,0 +1,2 @@
+alert("haha");
+alert('haha');
