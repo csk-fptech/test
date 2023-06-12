@@ -1,2 +1,0 @@
-alert("haha");
-alert('haha');
